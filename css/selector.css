@@ -1,0 +1,32 @@
+/*The CSS element selector*/
+p{
+    text-align: center;
+    color:blue;
+    font-size: xx-large;
+    font-style:oblique;
+}
+/*The CSS ID element selector*/
+#idselect{
+    text-align: center;
+    color:blue;
+    font-size: x-large;
+    font-style:normal;
+    background-color: rgb(255, 213, 198);
+}
+/*The CSS ID element selector*/
+.classselector{
+    text-align: center;
+    color: yellowgreen;
+    font-size: large;
+    font-style:normal;
+    background-color: blue;
+}
+p.noidung{
+    text-align: left;
+    color: blueviolet;
+}
+div.noidung{
+    text-align: right;
+    color: aqua;
+    background-color: black;
+}
